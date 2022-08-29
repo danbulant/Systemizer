@@ -24,6 +24,11 @@ export enum Technology{
     Swift,
     TypeScript,
     Vue,
+    Svelte,
+    Cloudflare,
+    "Cloudflare Stream",
+    "Backblaze B2",
+    "MySQL"
 }
 
 /**
